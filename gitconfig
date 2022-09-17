@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Richard RobinetDuffp
+	email = richard.robinet-duffo@hec.edu
+	name = Richard RobinetDuffo
